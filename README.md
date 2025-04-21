@@ -10,6 +10,8 @@ A line chart was created to plot the daily average house sales prices, ensuring 
 ## Map Visualization
 A map was designed to geocode house prices by zip code, enabling a spatial display of average prices. The color schemes were adjusted to maintain clarity and accessibility, with color gradients that represented varying price ranges.
 
+![image alt](https://github.com/CMariserla/House_Sales_-Analysis/blob/886df8ab6c0f6b169ecb17013cf05e2940e05615/topkc.PNG)
+
 ## Histogram Creation (Price Distribution)
 A histogram was developed to display the distribution of house prices, with careful adjustment to bin sizes and color palettes for consistency. This visual helped to communicate the price distribution within the dataset, with clear, easy-to-read labels.
 
