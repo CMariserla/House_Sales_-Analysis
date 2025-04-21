@@ -32,3 +32,5 @@ A calendar widget was added to show daily average prices, allowing users to filt
 ## Dashboard Assembly
 All visuals were combined into a cohesive dashboard, with a dedicated filter section and intuitive layout for easy navigation. Multiple filters were incorporated into the dashboard, including year built, square foot living, and square foot lot. These filters were organized in an intuitive layout, enabling users to narrow the data based on specific criteria. Integration with the calendar widget ensured that users could explore various time periods and property characteristics easily.
 Titles, background colors, and divider lines were customized to create a professional and visually appealing dashboard that was easy for users to interact with and interpret.
+
+![image alt](https://github.com/CMariserla/House_Sales_-Analysis/blob/6692450600b9b2423df87743ad03504d9ed4d788/kingcountymain.PNG)
