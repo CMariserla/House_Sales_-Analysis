@@ -22,6 +22,8 @@ Similar to the previous histograms, a third histogram was created to display the
 ## Heatmap Design
 A heatmap was designed to represent the relationship between house condition and view, using color gradients to indicate average prices. Axes were carefully adjusted for logical ordering, with clear labels to highlight trends and correlations between these two variables.
 
+![image alt](https://github.com/CMariserla/House_Sales_-Analysis/blob/fbc9b221bf345b1018372675129f17fef593922f/KCbottom.PNG)
+
 ## Calendar Widget
 A calendar widget was added to show daily average prices, allowing users to filter by month and year. Custom color scales were used to reflect price variations for each day, providing a clear representation of price fluctuations over time.
 
